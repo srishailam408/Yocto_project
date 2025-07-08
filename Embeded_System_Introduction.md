@@ -1,8 +1,5 @@
 ### Embedded Systems Introduction
 
-#### What is YOCTO?
-- To build your own Linux OS.
-
 ---
 
 ### 1. What is an Embedded System?
