@@ -142,6 +142,7 @@ Final bootable image includes:
 ---
 
 ## Yocto Project Architecture
+<img width="1101" height="516" alt="image" src="https://github.com/user-attachments/assets/f5691c13-ca5e-4c3e-8c38-6f9c91cdf136" />
 
 ### Left: Inputs
 
