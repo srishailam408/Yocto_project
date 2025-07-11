@@ -46,6 +46,7 @@ The **Yocto Project** is an open-source collaboration project that provides tool
 ---
 
 ## Introduction to the Yocto Project
+<img width="1031" height="435" alt="image" src="https://github.com/user-attachments/assets/5f8bd57f-35a2-4d12-904f-0a7d1b98455b" />
 
 ### Source Code
 Includes all components:
